@@ -30,6 +30,7 @@ This project explores the application of **Visual Question Answering (VQA)** in 
 ## Video/demo/GIF
 
 Short video showcasing our work - [Demo Video](https://youtu.be/PFHsqM_Vk1U)
+Project Report (Google Drive Link) - [Project Report](https://drive.google.com/file/d/1E9wIB4nWmy1w2fEguesgtohSIjhf4lli/view?usp=sharing)
 
 ## Table of Contents
    
