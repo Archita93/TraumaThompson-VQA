@@ -26,11 +26,11 @@ This project explores the application of **Visual Question Answering (VQA)** in 
 - Timesheet: [Timesheet](https://1sfu-my.sharepoint.com/:x:/g/personal/hamarneh_sfu_ca/EbSv7HNIpwJGvQfhk0xxMdMBHtsaA_xFOajlvH3pD0Xf4Q)
 - Slack channel: [project_16](https://cmpt419spring2025.slack.com/archives/C086CP2AW0K)
 - Project report: [Overleaf Project Report](https://www.overleaf.com/project/676b83821b6bfc7a605c6869)
+- Project Report (Google Drive Link) - [Project Report](https://drive.google.com/file/d/1E9wIB4nWmy1w2fEguesgtohSIjhf4lli/view?usp=sharing)
 
 ## Video/demo/GIF
 
 Short video showcasing our work - [Demo Video](https://youtu.be/PFHsqM_Vk1U)
-Project Report (Google Drive Link) - [Project Report](https://drive.google.com/file/d/1E9wIB4nWmy1w2fEguesgtohSIjhf4lli/view?usp=sharing)
 
 ## Table of Contents
    
